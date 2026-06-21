@@ -29,3 +29,7 @@ Given details about a used car (brand, year, mileage, engine size, fuel type, tr
 
 - `Car_Price_Model.ipynb` — the main notebook with all the data cleaning, feature engineering, and model training code
 - `Cardetails.csv` — the dataset
+
+# Running it
+
+Open `Car_Price_Model.ipynb` in Jupyter Notebook and run all the cells. Make sure `Cardetails.csv` is in the same folder as the notebook.
